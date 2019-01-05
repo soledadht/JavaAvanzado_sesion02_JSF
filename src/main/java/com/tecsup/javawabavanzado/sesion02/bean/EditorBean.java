@@ -4,7 +4,10 @@ package com.tecsup.javawabavanzado.sesion02.bean;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
-
+/**
+ *  Ejemplo de ManagedBean
+ *
+ */
 @ManagedBean(name = "miBean")
 @RequestScoped
 public class EditorBean {
@@ -24,3 +27,4 @@ public class EditorBean {
 		return "test";
 	}
 }
+ 
