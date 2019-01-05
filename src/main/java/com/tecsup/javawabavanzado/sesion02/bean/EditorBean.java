@@ -5,7 +5,8 @@ import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
 /**
- *  Ejemplo de ManagedBean
+ *  Ejemplo de ManagedBean 
+ *  05/01/2018
  *
  */
 @ManagedBean(name = "miBean")
